@@ -33,8 +33,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-9PEBJPEfa3)
+- Live Site URL: [GitHUb](https://nicoams.github.io/testimonials-grid-section/)
 
 ## My process
 
